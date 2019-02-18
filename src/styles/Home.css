@@ -1,0 +1,217 @@
+/* ================Carousel Stylings============= */
+.CarouselContainer {
+    padding-left: 0px;
+}
+
+.carousel .control-dots .dot {
+    display: none
+}
+
+.carousel .slide .legend {
+    font-size: 20px;
+    opacity: .8;
+    color: gold;
+    bottom: 15px;
+    background-color: maroon
+
+}
+
+.carousel .slide {
+    background-color: maroon
+}
+
+.carousel .carousel-status {
+    background-color: maroon;
+    color: gold
+}
+
+/* ============================Second Row of Content Stylings=================== */
+#row1 {
+    padding-top: 30px
+}
+
+#row2 {
+    padding-left: 150px;
+    padding-bottom: 20px;
+    padding-top: 40px
+}
+
+#homeElementCard {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+    border: none
+}
+
+#lastElementCard {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    text-align: center;
+    border: none
+}
+
+#homeElementLink {
+    text-decoration: none
+}
+
+#homeElementLink:hover {
+    background-color: inherit
+}
+
+/* =========================Media Queries========================= */
+@media only screen and (max-width: 1300px) {
+
+    #cardBodyFix {
+        display: none
+    }
+}
+
+/* iPad Stylings */
+@media only screen and (max-width: 1030px) {
+    #homeElementCard {
+        width: 130px;
+        height: 200px;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    #lastElementCard {
+        width: 130px;
+        height: 200px;
+        padding-left: 10px;
+        padding-right: 10px
+    }
+
+    #homeElementColumnFix {
+        width: 180px; 
+    }
+
+    #row2 {
+        padding-left: 70px
+    }
+
+    #homeElementLink > h3 {
+        font-size: 25px
+    }
+
+    #cardBodyFix {
+        display: none
+    }
+    
+    #row1 {
+        height: 300px;
+        margin-bottom: 50px
+    }
+
+    .CarouselContainer {
+        margin-top: 30px;
+    }
+
+    .carousel .slide .legend {
+        font-size: 15px;
+        opacity: .8;
+    }
+    
+}
+
+/* Phone Stylings */
+@media only screen and (max-width: 770px) {
+    #twitterDiv {
+        display: none
+    }
+
+    #row1 {
+        height: 200px;
+    }
+
+    #row2 {
+        padding-left: 0px;
+        margin-top: 200px;
+    }
+
+    .col-md-1 {
+        display: none;
+    }
+
+    .CarouselContainer {
+        margin-top: 0px;
+        padding-top: 0px;
+        
+    }
+
+    #lastElementCard {
+        width: 130px;
+        height: 200px;
+        margin-left: 80px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        text-align: center;
+        border: none
+    }
+}
+
+
+/* @media only screen and (max-width: 680px) { */
+
+@media only screen and (max-width: 680px) {
+    #twitterDiv {
+        display: none
+    }
+
+    #row1 {
+        height: 200px;
+    }
+
+    #row2 {
+        padding-left: 50px;
+        margin-top: 150px;
+    }
+
+    .col-md-1 {
+        display: none;
+    }
+
+    .CarouselContainer {
+        margin-top: 0px;
+        padding-top: 0px;
+        
+    }
+
+    #lastElementCard {
+        width: 130px;
+        height: 200px;
+        margin-left: 80px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        text-align: center;
+        border: none
+    }
+}
+
+
+@media only screen and (max-width: 500px) {
+    #row2 {
+        padding-left: 50px;
+        margin-top: 0px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    #lastElementCard {
+        width: 130px;
+        height: 200px;
+        padding-left: 0px;
+        margin-left: 0px;
+        padding-top: 10px;
+        text-align: center;
+        border: none
+    }
+    #row2 {
+        padding-left: 50px;
+        margin-top: 0px;
+    }
+}

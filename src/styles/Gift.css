@@ -1,0 +1,48 @@
+.instructions, .col-md-3, .mailingAddress, .phoneNumber {
+    text-align: center
+}
+
+.giftText {
+    font-size: 25px;
+    color: black
+}
+
+.mailGift, .phoneGift {
+    margin-top: 80px
+}
+
+.mailingAddress, .phoneNumber {
+    font-size: 20px
+}
+
+.iconGiftPage {
+    width: 180px
+}
+
+/* ------------------------Media Queries------------ */
+
+@media only screen and (max-width: 768px) {
+    .giftText {
+        font-size: 18px
+    }
+
+    .mailingAddress, .phoneNumber {
+        font-size: 14px
+    }
+
+    .container {
+       margin-left: 50px
+    }
+    
+}
+
+@media only screen and (max-width: 668px) {
+    .iconGiftPage {
+        width: 200px;
+        height: 200px
+    }
+    .container {
+        margin-left: 0px;
+    }
+
+}

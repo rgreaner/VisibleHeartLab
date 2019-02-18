@@ -1,0 +1,35 @@
+{
+  "name": "vhlab-web",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://www.vhlab1.umn.edu/",
+  "dependencies": {
+    "ajv": "^6.7.0",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-card-flippable": "^1.1.5",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-markdown": "^3.3.0",
+    "react-responsive-carousel": "^3.1.33",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-scroll-up": "^1.3.3",
+    "react-social-icons": "^2.8.1",
+    "react-twitter-widgets": "^1.7.1",
+    "yarn": "^1.12.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-image-resizer": "^1.3.0"
+  }
+}

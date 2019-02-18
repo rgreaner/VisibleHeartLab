@@ -1,0 +1,47 @@
+/* --------------Media Queries--------------- */
+/* iPad */
+@media only screen and (max-width: 1030px) {
+    #researchTopicImg {
+        width: 200px;
+        height: 200px;
+    }
+
+    #colFix {
+        margin-right: 50px
+    }
+
+    #researchTopic {
+        font-size: 20px;
+    }
+
+    #researchRow {
+        margin-bottom: 30px
+    }
+}
+
+
+
+/* Phones */
+@media only screen and (max-width: 668px) {
+    #researchHeader {
+        font-size: 28px
+    }
+
+    #researchSubheader {
+        font-size: 18px
+    }
+
+    #researchTopic {
+        font-size: 16px;
+        margin-bottom: 20px;
+        margin-top: 5px
+    }
+
+    #researchTopicImg {
+        width: 200px;
+        height: 200px
+    }
+    #researchRow {
+        margin-bottom: 0px
+    }
+}

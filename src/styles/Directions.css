@@ -1,0 +1,25 @@
+#bottomRow {
+    margin-top: 20px;
+}
+
+#mapImage {
+    margin-bottom: 30px
+}
+
+/* ------------Media Queries---------------- */
+
+@media only screen and (max-width: 668px) {
+    #subHead {
+        padding-top: 0px;
+        font-size: 20px
+    }
+
+    #header {
+        font-size: 30px
+    }
+
+    #mapImage {
+        max-width: 100%;
+        padding: 0px
+    }
+}

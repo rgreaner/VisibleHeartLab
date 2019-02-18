@@ -1,0 +1,48 @@
+.newsContainer {
+    margin-bottom: 20px;
+}
+
+.pageTitle {
+    margin-bottom: 60px
+}
+
+#searchbox-container {
+    float: right
+}
+
+#searchbox {
+    margin-left: 5px
+}
+
+
+h3,p {
+	color: black
+  }
+
+/* ============================Media Queries============================== */
+
+/* iPad Stylings */
+@media only screen and (max-width: 1030px) {
+    #hideDiv {
+      display:none
+    }
+}
+
+/* Phone Stylings */
+@media only screen and (max-width: 668px) {
+    #hideDiv {
+        display: none
+      }
+
+      #alterImage {
+          padding-left: 30px
+      }
+
+    .pageTitle {
+        margin-bottom: 10px;
+    }
+
+    h1 {
+        font-size: 30px
+    }
+}

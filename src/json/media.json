@@ -1,0 +1,417 @@
+{
+    "media": [
+        {
+           "date": "March 14, 2003",
+            "title": "Those Cuddly Camp Ripley Bears",
+            "description": "They are cute but they also represent interesting science.",
+            "img":"zzzbear2.jpg",
+            "goToLink":"http://www.mnvideovault.org/mpml_player_embed.php?vid_id=410&select_index=4"        
+        },
+        {
+            "date": "January 11, 2005",
+             "title": "Sleeping It Off: How Animals Use Hibernation, And Other Cold-Weather Survival Strategies, To Stay Alive",
+             "description": "If you wish you could hibernate for the winter instead of facing minus-20 windchillls every day, blame our distant ancestors.",
+             "img":"zzzbear.jpg",
+             "goToLink":"https://www.sciencedaily.com/releases/2005/01/050111152415.htm"        
+         },
+         {
+            "date": "March 9, 2005",
+             "title": "Device and Conquer",
+             "description": "Matters of the heart are seen in a unique way in the Visible Heart Laboratory.",
+             "img":"conq.gif",
+             "goToLink":"http://www.vhlab.umn.edu/media/2005-03-09/Spotlight-PaulIaizzo.pdf"        
+         },
+         {
+            "date": "October 12, 2005",
+             "title": "Apollo health career students visit research lab",
+             "description": "Did you know that the U of M is one of the leading institutes for cardiac research in the U.S.?",
+             "img":"labtour2.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2005-10-12/NR_healthcareersUofM.pdf"        
+         },
+         {
+            "date": "April 1, 2008",
+             "title": "Real Hearts, Remarkable Images",
+             "description": "If you've ever wanted to see the heart from within, you must see the work of Paul A. Iaizzo, PhD from the University of Minnesota. On this website are images obtained from actual human hearts removed before organ donation and bathed with perfusate and nutrients in Dr. Iaizzo's lab. His work was supported by a grant from Medtronic, Inc.",
+             "img":"funheart.png",
+             "goToLink":"http://drwes.blogspot.com/2008/04/real-hearts-remarkable-images.html"        
+         },
+         {
+            "date": "August 28, 2008",
+             "title": "U lab puts human hearts in the hands of fairgoers to spark interest in science",
+             "description": "An exhibit todayat the Minnesota State Fair will offer what's likely a first: the chance to see -- and even handle -- human hearts.",
+             "img":"plastich.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2008-08-28/2008-08-28.pdf"        
+         },
+         {
+            "date": "January 6, 2009",
+             "title": "10 Lessons Medicine Can Learn from Bears",
+             "description": "From osteoporosis to heart disease to pregnancy, there's a lot bears are teaching scientists.",
+             "img":"sassy.jpg",
+             "goToLink":"https://www.scientificamerican.com/article/bear-hibernation-science/"        
+         },
+         {
+            "date": "March 9, 2010",
+             "title": "Black Bear Research May Revolutionize Medicine",
+             "description": "In a University of Minnesota research laboratory, the thumping sounds of a beating heart can be heard throughout the room. But it's what you see that is so amazing. Resting on a thick pad of yellow foam, attached to wires and plastic tubing is an actual swine heart pulsating in a constant cadence.",
+             "img":"paws.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2010-03-09/Black_Bear_Research_May_Revolutionize_Medicine.pdf"        
+         },
+         {
+            "date": "March 14, 2010",
+             "title": "Learning from the bears",
+             "description": "NEAR PLUMMER, Minn. - She's not really aware of it, but the mother bear hibernating with her three cubs in this inconspicuous den in southern Pennington County is one high-tech mama.",
+             "img":"cmp.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2010-03-14/LearningFromTheBears.pdf"        
+         },
+         {
+            "date": "April 29, 2010",
+             "title": "U researchers get inside look at heart",
+             "description": "In a lab in the basement of a University of Minnesota building, researchers have performed heart transplants with humans, swine, canines and guinea pigs acting as donors. But the recipient of the different transplant hearts always stays the same.",
+             "img":"rolf.jpg",
+             "goToLink":"http://www.mndaily.com/article/2010/04/u-researchers-get-inside-look-heart"        
+         },
+         {
+            "date": "April 30, 2010",
+             "title": "Visible Heart Laboratory",
+             "description": "Learn about research going on at the Visible Heart Lab at the University of Minnesota.",
+             "img":"bateman2.jpg",
+             "goToLink":"https://www.youtube.com/watch?v=VS22U4S8G1c"        
+         },
+         {
+            "date": "December 26, 2010",
+             "title": "Can dormant bears help us heal?",
+             "description": "Hibernation research might someday help humans recover from injury or disease.",
+             "img":"lie.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2010-12-26/DormantBears.pdf"        
+         },
+         {
+            "date": "January 6, 2011",
+             "title": "U of M Bear Study Could Help Critical Care Patients",
+             "description": "Researchers at the University of Minnesota hope that what they are learning about bears could help them fight atrophy of the muscles in humans.",
+             "img":"cub2.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2011-01-06/U_of_M_Bear_Study_Could_Help_Critical_Care_Patients.pdf"        
+         },
+         {
+            "date": "January 20, 2011",
+             "title": "Good Question: How Does Hibernation Work?",
+             "description": "MINNEAPOLIS (WCCO) - Most of us have a cartoony image of hibernation: Yogi Bear snoozing away under the giant Redwood tree. But in Ely, Minnesota, Lily the bear is showing signs of labor. She's about to give birth, in the middle of hibernating. So what happens during hibernation?",
+             "img":"yogi.jpg",
+             "goToLink":"https://minnesota.cbslocal.com/2011/01/20/good-question-how-does-hibernation-work/"        
+         },
+         {
+            "date": "February 14, 2011",
+             "title": "Bringing Dead Hearts Back To Life Horizon: How To Mend A Broken Heart - BBC Two",
+             "description": "Scientists at the University of Minnesota have perfected a technique for re-animating dead hearts. By studying a visible beating heart, the scientists hope to gain a remarkable insight into its function. In this clip Prof. Paul Iaizzo uses a pig's heart to demostrate the re-animation process.",
+             "img":"darkdr.jpg",
+             "goToLink":"https://www.youtube.com/watch?v=Fi7cb449Xjc"        
+         },
+         {
+            "date": "February 23, 2011",
+             "title": "Collaboration: The heart of scientific discovery",
+             "description": "Within the U of M's Visible Heart® Laboratory, researchers and device manufacturers partner to develop the medical advancements of tomorrow.",
+             "img":"oldman.gif",
+             "goToLink":"http://www.vhlab.umn.edu/media/2011-02-23-1/Collaboration-The_heart_of_scientific_discovery.pdf"        
+         },
+         {
+            "date": "February 23, 2011",
+             "title": "A Look Inside: The Visible Heart® Laboratory seeks solutions for muscle atrophy",
+             "description": "How Visible Heart research and the study of the hibernation habits of black bears could lead to remarkable translational clinical science",
+             "img":"bigbear,jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2011-02-23-2/The_Visible_Heart_Laboratory_seeks_solutions_for_muscle_atrophy.pdf"        
+         },
+         {
+            "date": "March 15, 2011",
+             "title": "Photos: Bear research in northwestern Minnesota",
+             "description": "Minnesota black bears are on the move in northwest Minnesota. Bears are expanding their range out of forested areas, into farmland. Researchers are trying to learn more about how and why these bears are adapting to a new habitat where bears traditionally did not live.",
+             "img":"cutecub.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2012-10-29/BlackBears.pdf"        
+         },
+         {
+            "date": "June 7, 2011",
+             "title": "Understanding bears could help us survive heart attacks, researchers say",
+             "description": "Minneapolis - University of Minnesota researchers think lessons learned from hibernating black bears will help save human lives in a unique study that could someday improve the odds of surviving a heart attack.",
+             "img":"zzzbear.jpg",
+             "goToLink":"https://www.mprnews.org/story/2011/03/14/photos-bear-researcher"        
+         },
+         {
+            "date": "August 17, 2011",
+             "title": "Beware the black bear – even if it looks asleep",
+             "description": "Even in hibernation the heart rate of a bear will increase if it senses humans.",
+             "img":"wetbear.jpg",
+             "goToLink":"http://www.independent.co.uk/news/science/beware-the-black-bear-ndash-even-if-it-looks-asleep-2338815.html"        
+         },
+         {
+            "date": "October 25, 2011",
+             "title": "Cutting edge research being done at U of M lab filled with hearts",
+             "description": "MINNEAPOLIS - There's an unusual and unique lab at the University of Minnesota filled with human and animal hearts. You'll also find experts there who can get a heart beating again.",
+             "img":"paul3.jpg",
+             "goToLink":""        
+         },
+         {
+            "date": "January 27, 2012",
+             "title": "Minnesota Sounds and Voices: Paul Iaizzo is the Visible Heart Lab's beating core",
+             "description": "MINNEAPOLIS - The University of Minnesota's Visible Heart lab is the only place in the world where researchers can study beating hearts outside the body, and Paul Iaizzo, who runs the hi-tech facility, says it can sometimes feel as though he's working in an episode of 'ER.'",
+             "img":"app.jpg",
+             "goToLink":"https://www.mprnews.org/story/2012/01/27/minnesota-sounds-and-voices-visible-heart-lab"        
+         },
+         {
+            "date": "April 15, 2012",
+             "title": "Where Engineering Meets Imagination- IEEE Engineering in Medicine & Biology Society",
+             "description": "Students learn about the career of biomedical engineering through some of the latest advancements in the field.",
+             "img":"emb.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2012-04-15/IEEE-EMBS.mp4"        
+         },
+         {
+            "date": "June 26, 2012",
+             "title": "Laboratory Profiles: Visible Heart Laboratory- IEEE Engineering in Medicine & Biology Society",
+             "description": "The Visible Heart Laboratory was featured in a laboratory profile from the IEEE.",
+             "img":"vhlpic.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2012-06-26/VHL_720p.mp4"        
+         },
+         {
+            "date": "October 29, 2012",
+             "title": "University of Minnesota Medical School, Medical Bulletin - Black Bear: Medical Marvel",
+             "description": "U researcher heads to the woods to learn more about the human heart.",
+             "img":"bbb.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2012-10-29/BlackBears.pdf"        
+         },
+         {
+            "date": "October 29, 2012",
+             "title": "University of Minnesota Medical School, Medical Bulletin - Inside the beating heart",
+             "description": "Paul Iaizzo, PhD, Director of the University of Minnesota's Visible Heart Laboratory, has given the medical world a unique, never-before-seen view inside the beating heart.",
+             "img":"eagan.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2012-10-29/Inside-the-beating-heart.pdf"        
+         },
+         {
+            "date": "December 22, 2012",
+             "title": "Minnesota Public Radio, Minnesota in Photos, MPR photos of the year",
+             "description": "Minneapolis, Minnesota, USA — A swine heart is monitored in the Visible Heart Lab at the University of Minnesota in Minneapolis on Jan. 5, 2012. The Visible Heart Lab, which uses reanimated mammalian hearts for research and education, has been operating for 15 years. (MPR Photo/Jeffrey Thompson)",
+             "img":"app.jpg",
+             "goToLink":"https://www.mprnews.org/story/2012/12/21/mpr-photos-of-the-year#fig-20120125-20120104heart1"        
+         },
+         {
+            "date": "April 9, 2013",
+             "title": "Next Generation of Lifesaving Devices Could Come from Conference at U of M",
+             "description": "Minneapolis, Minnesota, USA —The University of Minnesota is hosting the 12th Design of Medical Devices Conference. The conference was created in 2001 to gather the best and brightest minds to share information and develop new ideas.With more than 1200 physicians, designers and engineers expected to attend, the conference is the largest of its kind.",
+             "img":"kstp2.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2013-04-09/KSTP.com.pdf"        
+         },
+         {
+            "date": "August 5, 2013",
+             "title": "Whole Body Donations Help Teach Future Doctors",
+             "description": "MINNEAPOLIS (WCCO) – WCCO meteorologist Mike Augustyniak’s aunt Barbara passed away earlier this year, and his aunt Connie passed in 2009. Both were life-long nurses, and each chose to donate their body to science instead of being buried or cremated.",
+             "img":"plastich.jpg",
+             "goToLink":"https://minnesota.cbslocal.com/2013/08/05/anatomy-bequests-help-teach-future-doctors/"        
+         },
+         {
+            "date": "October 14, 2013",
+             "title": "Why Paul Iaizzo does what he does",
+             "description": "Paul Iaizzo was featured in an Academic Health Center video where he talks about the work being performed in the Visible Heart Lab.Panel discussions on the process of innovation.",
+             "img":"why.jpg",
+             "goToLink":"https://www.youtube.com/watch?v=o8zI1EHsBt0"        
+         },
+         {
+            "date": "November 22, 2013",
+             "title": "Midwest’s first breathing lung transplant performed at University of Minnesota Medical Center, Fairview",
+             "description": "The Visible Heart Lab is collaborating with Dr. Gabriel Loor to do further research on a device used to sustain the lungs for a breathing lung transplant procedure.",
+             "img":"lung.png",
+             "goToLink":"https://twin-cities.umn.edu/internal-news-listing"   
+         },
+         {
+            "date": "January 7, 2014",
+             "title": "U of M Researches Link Between Bear and Human Heart Health",
+             "description": "Could black bears really help humans when it comes to heart health? University of Minnesota researcher Paul Iaizzo says during hibernation, black bears heart rates increase significantly when they breath in, but drop down to just a couple breaths per minute as they exhale.",
+             "img":"kstp.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2014-01-07/black-bears-heart-health.mp4"        
+         },
+         {
+            "date": "May 1, 2014",
+             "title": "An Underground Lab at the Heart of Cardiovascular Innovation",
+             "description": "Designing medical devices requires more than textbook knowledge. Here are some insights on hands-on learning from our visit to the Visible Heart Lab.",
+             "img":"funheart.png",
+             "goToLink":"http://www.vhlab.umn.edu/media/2014-05-01/Underground-Lab.pdf"        
+         },
+         {
+            "date": "September 17, 2014",
+             "title": "TCT Innovation Update 2014",
+             "description": "Panel discussions on the process of innovation.",
+             "img":"tct.png",
+             "goToLink":"https://www.tctmd.com/videos?section=/video/interviews/2014/79e0ce7a4eb84786adc832ff9970eb92"        
+         },
+         {
+            "date": "January 5, 2015",
+             "title": "ICI Meeting 2014 - Academy Day",
+             "description": "ICI is the premier International Conference for Innovations in cardiovascular systems (Heart Brain and Peripheral Vessels) and High-Tech Life Science Industry. The route of the ICI meeting takes you through the process of innovation- starting from the ICI Academy of Innovation where we learn and exercise how to innovate, we then continue to a 2 days conference focusing on the use of advanced technologies to save hearts and lives.",
+             "img":"ici.png",
+             "goToLink":"https://www.youtube.com/watch?v=UgCo1qDoJp0"        
+         },
+         {
+            "date": "January 28, 2015",
+             "title": "From the lab to the north woods",
+             "description": "U of M research on bears' hibernation is leading to advances in preserving organs for transplant surgery and helping bedridden people avoid clots.",
+             "img":"cub.jpg",
+             "goToLink":"https://give.umn.edu/stories/lab-to-north-woods"        
+         },
+         {
+            "date": "February 2, 2015",
+             "title": "The big sleep",
+             "description": "Can snoozing bears help scientists cure human diseases?",
+             "img":"sleep.jpg",
+             "goToLink":"http://www.vhlab.umn.edu/media/2015-02-01-Scholastic-SuperScience/Page4-6.png"        
+         },
+         {
+            "date": "March 14, 2015",
+             "title": "Bear study teams DNR, Medtronic and U of M researchers",
+             "description": "An early spring might be a welcome turn of events for hibernating bears, but it's worrisome for researchers seeking to find the animals in their dens for close-up study.",
+             "img":"beardnr.jpg",
+             "goToLink":"https://www.grandforksherald.com/outdoors/wildlife/3700172-bear-study-teams-dnr-medtronic-and-university-minnesota-researchers"        
+         },
+         {
+            "date": "March 17, 2015",
+             "title": "Turns Out That Medtronic Is Really Interested in Bears",
+             "description": "Medtronic officials think unlocking the secrets of hibernation could provide insights to better treat heart disease.",
+             "img":"BlackBear.jpg",
+             "goToLink":"https://www.mddionline.com/turns-out-medtronic-really-interested-bears"        
+         },
+         {
+            "date": "May 21, 2015",
+             "title": "U of M researcher has one of the first 'bioprinters' using living tissue",
+             "description": "Bioprinters, using living tissue, could revolutionize transplant medicine.",
+             "img":"briansmall.jpg",
+             "goToLink":"http://www.startribune.com/university-of-minnesota-researcher-has-one-of-the-first-bioprinters-using-living-tissue/304654771/"        
+         },
+         {
+            "date": "May 21, 2015",
+             "title": "Made to order",
+             "description": "The latest 3-D printers lay down medicine’s future.",
+             "img":"3dsplit.jpg",
+             "goToLink":"https://www.kare11.com/article/news/3d-printed-hearts-are-a-model-teaching-tool-at-u-of-m/101999972"        
+         },
+         {
+            "date": "February 9, 2016",
+             "title": "Next Big Thing: 3D Printing",
+             "description": "3D printing is making huge strides in the field of medicine at U of M.",
+             "img":"3dkare.jpg",
+             "goToLink":"https://www.kare11.com/article/news/next-big-thing-3d-printing/37756290"        
+         },
+         {
+            "date": "February 22, 2016",
+             "title": "How 3-D imaging could change heart surgery in the future",
+             "description": "In the cardiac operating room of the future, a surgeon may repair your damaged heart with personalized parts made to fit your precise anatomy - bypassing donor lists and immune-suppressing drugs",
+             "img":"3dbio.jpg",
+             "goToLink":"https://www.washingtonpost.com/national/health-science/how-3-d-imaging-could-change-heart-surgery-in-the-future/2016/02/22/48f28a44-cf62-11e5-88cd-753e80cd29ad_story.html?noredirect=on&utm_term=.c5d2c6a3790d"        
+         },
+         {
+            "date": "March 29, 2016",
+             "title": "3D printed hearts are a model teaching tool at U of M",
+             "description": "Paul Iaizzo's Visible Heart Lab at the University of Minnesota hums with activity. Heart monitors, computer readouts, and a bank of 3D printers.",
+             "img":"kare2.jpg",
+             "goToLink":"https://www.kare11.com/article/news/3d-printed-hearts-are-a-model-teaching-tool-at-u-of-m/101999972"        
+         },
+         {
+            "date": "March 28, 2016",
+             "title": "U of M experts share innovative research at Red Wing Golf Club",
+             "description": "Three University of Minnesota experts spoke on a diverse range of topics Tuesday evening at Red Wing Golf Club. The program, titled 'Change Meets Innovation,' marked the 2016 kickoff of the university’s Minnesota Sparks series.",
+             "img":"paulmic.jpg",
+             "goToLink":"https://www.republican-eagle.com/news/3995108-u-m-experts-share-innovative-research-red-wing-golf-club"        
+         },
+         {
+            "date": "April 6, 2016",
+             "title": "To repair Karlie’s weakened heart, her care team turned to a 3-d printer",
+             "description": "Karlie needed a transcatheter aortic valve replacement (TAVR), but her care team had concerns. So they used a 3-D printer to create exact replicas of Karlie’s heart.",
+             "img":"karlie.jpg",
+             "goToLink":"https://www.mhealth.org/blog/2016/april-2016/to-repair-karlies-weakened-heart-surgeons-turn-to-3d-printer"        
+         },
+         {
+            "date": "April 15, 2016",
+             "title": "3D printing gives doctors a new view",
+             "description": "Using a 3D printer, University of Minnesota researchers made an exact replica of Karlie's heart, letting doctors try lots of variations on the plastic model before they started surgery.",
+             "img":"kare11.jpg",
+             "goToLink":"https://www.kare11.com/article/news/3d-printing-gives-doctors-a-new-view/135852297"   
+        },
+         {
+            "date": "May 26, 2016",
+             "title": "U Scientists Recreate Woman’s Aorta With 3-D Printer",
+             "description": "UA Minneapolis woman is alive and well thanks to some creative thinking and a 3-D printer.",
+             "img":"cbs1.jpg",
+             "goToLink":"https://minnesota.cbslocal.com/2016/05/26/scientists-recreate-heart-3d-printer/"        
+         },
+         {
+            "date": "July 13, 2016",
+             "title": "At heart lab, anatomy gains new perspective",
+             "description": "Begun in 1997, Dr. Paul Iaizzo’s Visible Heart Lab is now at the forefront of 3-D-printing.",
+             "img":"marialab.jpg",
+             "goToLink":"http://www.mndaily.com/article/2016/07/heart-lab-anatomy-gains-new-perspective"        
+         },
+         {
+            "date": "July 18, 2016",
+             "title": "Studying the heart, hands-on",
+             "description": "Usually, saying a heart is beating out of its chest is just an expression.",
+             "img":"paulbill.jpg",
+             "goToLink":"https://research.umn.edu/inquiry/post/studying-heart-hands"        
+         },
+         {
+            "date": "August 4, 2016",
+             "title": "This Reanimated Heart Footage Is Amazing",
+             "description": "Sharing their findings broadly and freely, The Visible Heart Lab at the University of Minnesota is reanimating hearts to better understand the functional anatomy of our most important muscle.",
+             "img":"app.jpg",
+             "goToLink":"https://www.mddionline.com/reanimated-heart-footage-amazing"        
+         },
+         {
+            "date": "August 11, 2016",
+             "title": "Minnesota is re-animating dead pig hearts for science: LiveBIG",
+             "description": "Most people would say watching a disembodied pig heart go from pallid and inert to undulating with the rhythm of life would be distinctly out of the ordinary. But most people don’t work in the University of Minnesota’s Visible Heart Lab where it’s just called Tuesday.",
+             "img":"app.jpg",
+             "goToLink":"http://btn.com/2016/08/11/minnesota-is-re-animating-dead-pig-hearts-for-science-livebig/"        
+         },
+         {
+            "date": "January 4, 2017",
+             "title": "Minnesota lab takes a close-up look at hearts, beat by beat: LiveBIG",
+             "description": "Sharing their findings broadly and freely, The Visible Heart Lab at the University of Minnesota is reanimating hearts to better understand the functional anatomy of our most important muscle.",
+             "img":"artpic1.jpg",
+             "goToLink":"https://www.youtube.com/watch?v=a57l8ZuqPrA"        
+         },
+         {
+            "date": "April 26, 2017",
+             "title": "Heart in a box",
+             "description": "A clinical trial at the U of M may help surgeons make more efficient use of donor hearts and benefit patients who are waiting for a transplant.",
+             "img":"heartBox.jpg",
+             "goToLink":"https://www.med.umn.edu/news-events/medical-bulletin/heart-box"        
+         },
+         {
+            "date": "May 14, 2017",
+             "title": "BEAR WEEK: Researchers look to hibernating bears for advancements in human medicine",
+             "description": "Researchers from the Department of Natural Resources and the University of Minnesota's Visible Heart Lab are looking to hibernating bears for the next advancements in human medical care.",
+             "img":"fox9Bear.jpg",
+             "goToLink":"http://www.fox9.com/news/researchers-look-to-hibernating-bears-for-advancements-in-human-medicine"        
+         },
+         {
+            "date": "May 16, 2017",
+             "title": "BEAR WEEK: Scientists look to unlock the mysteries of hibernation",
+             "description": "The future of medicine might just be hibernating in a bear den in northern Minnesota.",
+             "img":"fox9Paul.jpg",
+             "goToLink":"http://www.fox9.com/news/bear-week-scientists-look-to-unlock-the-mysteries-of-hibernation"        
+         },
+         {
+            "date": "June 23, 2017",
+             "title": "VR & 3D Printing for Heart Treatment: A Tour",
+             "description": "Take a tour of the human heart using the latest in virtual reality technology with Prof. Paul Iaizzo, University of Minnesota, and his team.",
+             "img":"VRTour.jpg",
+             "goToLink":"https://aabme.asme.org/posts/virtual-reality-and-3d-printing-for-heart-treatment-a-tour"        
+         },
+         {
+            "date": "August 3, 2017",
+             "title": "How virtual reality is changing cardiovascular care",
+             "description": "Now that virtual reality has become actual reality, it’s slowly but surely revolutionizing the treatment of heart disease and stroke.",
+             "img":"VR.jpg",
+             "goToLink":"https://news.heart.org/virtual-reality-changing-cardiovascular-care"        
+         },
+         {
+            "date": "September 13, 2018",
+             "title": "Red Heart Soiree: An evening to benefit cardiovascular Health",
+             "description": "Paul Iaizzo and the Visible Heart Lab were featured in the Red Heart Soiree video on heart transplantation.",
+             "img":"RedHeartSoiree.jpg",
+             "goToLink":"https://www.youtube.com/watch?v=dRT46w0qwvc&feature=youtu.be&t=167"        
+         }
+    ]
+}

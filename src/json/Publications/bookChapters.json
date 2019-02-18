@@ -1,0 +1,473 @@
+{
+    "articles": [
+        {
+            "authors": "Pozos RS, Iaizzo PA, Danzl DF, Mills W III:",
+            "description": "Limits of tolerance to cold.",
+            "publisher": "In: Handbook of Physiology: Environmental Physiology, Fregly MJ, Blatteis CM (eds.) Oxford University Press, Chapter 25, pages 557-578,",
+            "date": "1996."
+        },
+        {
+            "authors": "Iaizzo PA, Day JW:",
+            "description": "The potential for anesthetic complications in patients with muscle disorders.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume X, Chapter 9, pages 151-172,",
+            "date": "1996."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Methods for monitoring modulations in intracellular [Ca2+].",
+            "publisher": "In: Anesthesia: Biological Foundations, Yaksh TL, Lynch C III, Zapol WM, Maze M, Biebuyck JF, Saidman LJ (eds.), Raven Press, New York, Chapter 24, pages 399-415,",
+            "date": "1997."
+        },
+        {
+            "authors": "Sigg D, Hasinoff IK, Iaizzo PA:",
+            "description": "Weakness in the ICU paralysis syndrome: differential diagnosis.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XII, Chapter 8, pages 127-156,",
+            "date": "1998."
+        },
+        {
+            "authors": "Sigg D, Hausmann ON, Falkenberg JH, Iaizzo PA:",
+            "description": "Low back pain, part I: physiology and pathophysiology.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XIV, Chapter 8, pages 115-128,",
+            "date": "2000."
+        },
+        {
+            "authors": "Sigg D, Hausmann ON, Falkenberg JH, Iaizzo PA:",
+            "description": "Low back pain, part II: differential diagnoses and patient evaluation.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XIV, Chapter 10, pages 151-164,",
+            "date": "2000."
+        },
+        {
+            "authors": "Sigg D, Hausmann ON, Falkenberg JH, Iaizzo PA:",
+            "description": "Low back pain, part III: treatment approaches.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XIV, Chapter 12, pages 183-200,",
+            "date": "2000."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Malignant hyperthermia: blood and blood flow.",
+            "publisher": "In: Malignant Hyperthermia, Schulte am Esch J, Scholz J, Wappler F (eds.), Pabst Science Publishers, pages 148-153,",
+            "date": "2000."
+        },
+        {
+            "authors": "Coles JA Jr, Sigg DC, Bittner HB, Iaizzo PA:",
+            "description": "Surgical myocardial protection: Part I. Physiological basis and clinical relevance.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XVI, Chapter 3, pages 35-48,",
+            "date": "2002."
+        },
+        {
+            "authors": "Sigg, DC, Coles JA, Iaizzo PA:",
+            "description": "Surgical myocardial protection: Part II. From ischemic preconditioning to gene therapy: emerging experimental cardioprotective approaches.",
+            "publisher": "In: Progress in Anesthesiology. Dannemiller Memorial Education Foundation, Volume XVI, Chapter 5, pages 63-80,",
+            "date": "2002."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "General features of the cardiovascular system.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 1, pages 3-11, ",
+            "date": "2005."
+        },
+        {
+            "authors": "Hill AJ, Iaizzo PA:",
+            "description": "Comparative cardiac anatomy.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 5, pages 81-91,",
+            "date": "2005."
+        },
+        {
+            "authors": "Lahm R, Iaizzo PA:",
+            "description": "The coronary system and associated medical devices.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 6, pages 93-100,",
+            "date": "2005."
+        },
+        {
+            "authors": "Chinchoy E, Ujhelyi M, Hill AJ, Skadsberg ND, Iaizzo PA:",
+            "description": "The pericardium.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 7, pages 101-110,",
+            "date": "2005."
+        },
+        {
+            "authors": "Laske, TG, Iaizzo PA:",
+            "description": "The cardiac conduction system.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 9, pages 123-136,",
+            "date": "2005."
+        },
+        {
+            "authors": "Fitzgerald K, Iaizzo PA:",
+            "description": "Autonomic nervous system.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 10, pages 137-148, ",
+            "date": "2005."
+        },
+        {
+            "authors": "Coles JA Jr, Sigg DC, Iaizzo PA:",
+            "description": "Reversible and irreversible damage of the myocardium: new ischemic syndromes, ischemia/reperfusion injury, and cardioprotection.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 12, pages 161-170,",
+            "date": "2005."
+        },
+        {
+            "authors": "Dupre A, Vincent S., Iaizzo PA:",
+            "description": "Basic ECG theory, recordings and interpretation. ",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 15, pages 191-201,",
+            "date": "2005."
+        },
+        {
+            "authors": "Loushin MK, Iaizzo PA:",
+            "description": "Mechanical aspects of cardiac performance.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 16, pages 203-222,",
+            "date": "2005."
+        },
+        {
+            "authors": "McManus D, Mahre MA, Iaizzo PA:",
+            "description": "Historical perspective of cardiovascular devices and techniques.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 20, pages 273-285,",
+            "date": "2005."
+        },
+        {
+            "authors": "Laske TG, Legreid A, Iaizzo PA:",
+            "description": "Pacing and defibrillation.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 23, pages 323-348,",
+            "date": "2005."
+        },
+        {
+            "authors": "Skadsberg ND, Laske TG, Iaizzo PA:",
+            "description": "Cardiac mapping systems.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 25, pages 361-369,",
+            "date": "2005."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Emerging cardiac devices and technologies.",
+            "publisher": "In: The Handbook of Cardiac Anatomy, Physiology, and Devices. Humana Press, Chapter 33, pages 445-457,",
+            "date": "2005."
+        },
+        {
+            "authors": "Durfee WK and Iaizzo PA:",
+            "description": "Rehabilitation and Muscle Testing.",
+            "publisher": "In: Encyclopedia of Medical Devices and Instrumentation, Second Edition. John Wiley & Sons, pages 62-71,",
+            "date": "2006."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "General features of the cardiovascular system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 1, pages 3-12,",
+            "date": "2009."
+        },
+        {
+            "authors": "Hill AJ, Iaizzo PA:",
+            "description": "Comparative cardiac anatomy.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 6, pages 87-108,",
+            "date": "2009."
+        },
+        {
+            "authors": "Anderson SE, Lahm R, Iaizzo PA:",
+            "description": "The coronary vascular system and associated medical devices.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 7, pages 109-124,",
+            "date": "2009."
+        },
+        {
+            "authors": "Richardson E, Hill AJ, Skadsberg ND, Ujhelyi M, Xiao YF, Iaizzo PA:",
+            "description": "The pericardium.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 8, pages 125-136,",
+            "date": "2009."
+        },
+        {
+            "authors": "Laske TG, Shrivastav M, Iaizzo PA:",
+            "description": "The cardiac conduction system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 11, pages 159-176,",
+            "date": "2009."
+        },
+        {
+            "authors": "Fitzgerald K, Wilson RF, Iaizzo PA:",
+            "description": "Autonomic nervous system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 12, pages 177-190,",
+            "date": "2009."
+        },
+        {
+            "authors": "Coles Jr JA, Sigg DC, Iaizzo PA:",
+            "description": "Reversible and irreversible damage of the myocardium: new ischemic syndromes, ischemia/reperfusion injury, and cardioprotection.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 14, pages 219-230,",
+            "date": "2009."
+        },
+        {
+            "authors": "Dupre A, Vieau SA, Iaizzo PA:",
+            "description": "Basic ECG theory, 12-lead recordings and their interpretation.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 17, pages 257-270,",
+            "date": "2009."
+        },
+        {
+            "authors": "Loushin MK, Quill JL, Iaizzo PA:",
+            "description": "Mechanical aspects of cardiac performance.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 18, pages 271-296,",
+            "date": "2009."
+        },
+        {
+            "authors": "Iaizzo PA, Mahre MA:",
+            "description": "A historical perspective of cardiovascular devices and techniques associated with the University of Minnesota.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 23, pages 365-382,",
+            "date": "2009."
+        },
+        {
+            "authors": "Laske TG, Legreid Dopp AM, Iaizzo PA:",
+            "description": "Pacing and defibrillation.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 27, pages 443-474,",
+            "date": "2009."
+        },
+        {
+            "authors": "Skadsberg ND, He B, Laske TG, Iaizzo PA:",
+            "description": "Cardiac mapping technology.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 29, pages 499-510,",
+            "date": "2009."
+        },
+        {
+            "authors": "Hill AJ, Laske TG, Iaizzo PA:",
+            "description": "Transcatheter valve repair and replacement.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 33, pages 561-570,",
+            "date": "2009."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Emerging cardiac devices and technologies.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology, and Devices, 2nd edition. Springer, Chapter 38, pages 631-644,",
+            "date": "2009."
+        },
+        {
+            "authors": "Iaizzo PA, Laske TG:",
+            "description": "Anatomy and physiology of the cardiac conduction system.",
+            "publisher": "In: Cardiac Electrophysiology Methods and Models, Springer, New York, NY, Chapter 4, pages 73-90,",
+            "date": "2010."
+        },
+        {
+            "authors": "Skadsberg ND, Hill AJ, Iaizzo PA:",
+            "description": "Isolated heart models.",
+            "publisher": "In: Cardiac Electrophysiology Methods and Models, Springer, New York, NY, Chapter 12, pages 249-260,",
+            "date": "2010."
+        },
+        {
+            "authors": "Bateman M, Howard SA, Rolfes C, Laske TG, Iaizzo PA:",
+            "description": "Cardiac devices and testing.",
+            "publisher": "In: Hoffman KP, ed. Handbook of Medical Technology. Springer, New York, NY, Chapter 43, pages 855-876,",
+            "date": "2011."
+        },
+        {
+            "authors": "Iaizzo PA, Durfee WK:",
+            "description": "Functional force assessment of skeletal muscles.",
+            "publisher": "In: Handbook of Medical Technology. Springer, New York, NY, Chapter 14, pages 273-287,",
+            "date": "2011."
+        },
+        {
+            "authors": "Rolfes C, Howard S, Goff R, Iaizzo PA:",
+            "description": "Localized drug delivery for cardiothoracic surgery.",
+            "publisher": "In: Cagini L, ed., Current Concepts in General Thoracic Surgery, InTech, Chapter 14, pages 279-303,",
+            "date": "2012."
+        },
+        {
+            "authors": "Benscoter MA, Iaizzo PA:",
+            "description": "Cardiac pacing: a review chapter.",
+            "publisher": "In: Horizons in World Cardiovascular Research, Volume 2. Nova Publishers,",
+            "date": "2011."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Introduction to neurophysiology.",
+            "publisher": "In: Handbook of Neural Engineering, 2nd Edition (He B, ed.). Springer Science+Business Media, New York, pages 1-86,",
+            "date": "2013."
+        },
+        {
+            "authors": "Bateman MG, Quill JL, Hill AJ, Iaizzo PA:",
+            "description": "The anatomy and function of the atrioventricular valves.",
+            "publisher": "In: Heart Valves: From Design to Clinical Implantation, Springer Science + Business Media, Chapter 1,",
+            "date": "2013."
+        },
+        {
+            "authors": "Bateman MG, Quill JL, Hill AJ, Iaizzo PA:",
+            "description": "The anatomy and function of the semilunar valves.",
+            "publisher": "In: Heart Valves: From Design to Clinical Implantation, Springer Science + Business Media, Chapter 2,",
+            "date": "2013."
+        },
+        {
+            "authors": "Ahlberg SA, Bateman MG, Eggen MD, Quill JL, Richardson ES, Iaizzo PA:",
+            "description": "Animal models for cardiac valve research.",
+            "publisher": "In: Heart Valves: From Design to Clinical Implantation, Springer Science + Business Media, Chapter 14,",
+            "date": "2013."
+        },
+        {
+            "authors": "Bateman MG, Hill AJ, Quill JL, Eggen MD, Rolfes CD, Iaizzo PA:",
+            "description": "The use of isolated heart models and anatomic specimens as means to enhance the design and testing of cardiac valve therapies.",
+            "publisher": "In: Heart Valves: From Design to Clinical Implantation, Springer Science + Business Media, Chapter 15,",
+            "date": "2013."
+        },
+        {
+            "authors": "Howard SA, Bateman MG, Laske TG, Iaizzo PA:",
+            "description": "Successful development and regulatory approval of replacement cardiac valves.",
+            "publisher": "In: Heart Valves: From Design to Clinical Implantation, Springer Science + Business Media, Chapter 16,",
+            "date": "2013."
+        },
+        {
+            "authors": "Mulligan LJ, Lalonde JP, Iaizzo PA, Eggen MD:",
+            "description": "Electro-physiological solutions for cardiac disease.",
+            "publisher": "In: Biomedical Technology and Devices, 2nd edition, CRC Press, Taylor & Francis,",
+            "date": "2013."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "General features of the cardiovascular system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Hill AJ, Iaizzo PA:",
+            "description": "Comparative cardiac anatomy.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Bateman MG, Quill JL, Hill AJ, Iaizzo PA:",
+            "description": "Detailed anatomical and functional features of the cardiac veins.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Spencer JH, Anderson SA, Lahm R, Iaizzo PA:",
+            "description": "The coronary vascular system and associated medical devices.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Richardson ES, Hill AJ, Skadsberg ND, Ujhelyi M, Xiao YF, Iaizzo PA:",
+            "description": "The pericardium.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Laske TG, Shrivastav M, Iaizzo PA:",
+            "description": "The cardiac conduction system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Iaizzo PA, Fitzgerald K:",
+            "description": "Autonomic nervous system.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer, ",
+            "date": "2015."
+        },
+        {
+            "authors": "Howard BT, Iles TL, Coles Jr JA, Sigg DC, Iaizzo PA:",
+            "description": "Reversible and irreversible damage of the myocardium: ischemia/reperfusion injury and cardioprotection.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Vieau S, Iaizzo PA:",
+            "description": "Basic ECG theory, 12-lead recordings and their interpretation.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Loushin MK, Quill JL, Iaizzo PA:",
+            "description": "Mechanical aspects of cardiac performance.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Iaizzo PA, Mahre MA:",
+            "description": "Historical perspective of cardiovascular devices and techniques associated with the University of Minnesota.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Laske TG, Legreid Dopp A, Eggen MD, Iaizzo PA:",
+            "description": "Pacing and defibrillation.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Skadsberg ND, He B, Laske TG, Ramanathan C, Iaizzo PA:",
+            "description": "Cardiac mapping technology.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Mattison LM, Laske TG, Iaizzo PA:",
+            "description": "Transcatheter valve repair and replacement.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Bateman MG, Eggen MD, Spencer JH, Iles TL, Iaizzo, PA:",
+            "description": "The use of isolated heart models and anatomic specimens as means to enhance the design and testing of cardiac devices.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Howard SA, Bateman MG, Laske TG, Iaizzo PA:",
+            "description": "Current status of development and regulatory approval of cardiac devices.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Iaizzo PA:",
+            "description": "Cardiac devices and technologies: continued rapid rates of development.",
+            "publisher": "In: Handbook of Cardiac Anatomy, Physiology and Devices, 3rd edition, Springer,",
+            "date": "2015."
+        },
+        {
+            "authors": "Shaffer AW, Mattison LM, Spratt JR, Iles TL, Kerns N, Bateman MG, Huddleston SJ, Kelly RF, John R, Liao KK, Iaizzo PA:",
+            "description": "A new era for improving cardiothoracic transplantations.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Bateman MG, Iles TL, Iaizzo PA:",
+            "description": "Advancing the design and testing of novel cardiac device technologies using the Visible Heart®.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Mattson AR, Eggen MD, Iaizzo PA:",
+            "description": "The cardiac pacemaker: a crossroads of engineering and medicine.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Mattison LM, Howard BT, Iaizzo PA:",
+            "description": "Electroporation ablative therapy as a clinical tool: an old technology revisited.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Gaasedelen EN, Iaizzo PA:",
+            "description": "3D graphics to virtual reality in medicine: opportunities and prospective.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Zhingre Sanchez J, Bateman MG, Iaizzo PA:",
+            "description": "Engineering and technologies associated with cardiac valve repair and replacement therapies.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Holm MA, Iaizzo PA:",
+            "description": "Importance of human cadaver studies in education and medical device research: insights derived from various imaging studies and modalities.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Durfee WK, Iaizzo PA:",
+            "description": "The medical device innovation process.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Durfee WK, Iaizzo PA:",
+            "description": "Educating innovators of medical technologies.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        },
+        {
+            "authors": "Durfee WK, Iaizzo PA:",
+            "description": "Medical applications of 3D printing.",
+            "publisher": "In: Engineering in Medicine: Advances and Opportunities, Elsevier,",
+            "date": "2018."
+        }
+
+    ]
+}

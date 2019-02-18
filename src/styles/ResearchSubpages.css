@@ -1,0 +1,18 @@
+.subpageContainer {
+    color: #46000E;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.researchSubPageBreadcrumb {
+    text-decoration: none;
+}
+
+.researchSubPageBreadcrumb:hover {
+    background-color: inherit
+}
+
+.subpageTitle {
+    text-align: center;
+}

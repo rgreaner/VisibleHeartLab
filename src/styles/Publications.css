@@ -1,0 +1,17 @@
+body {
+    color: black;
+    font-family: 'Texta', sans-serif;
+}
+
+li {
+    padding-top: 30px;
+}
+
+h4 {
+    padding-top: 20px;
+    padding-bottom: 0px
+}
+
+#underlineThis {
+    text-decoration: underline
+}

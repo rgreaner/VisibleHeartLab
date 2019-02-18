@@ -1,0 +1,137 @@
+{ 
+	"research": [{
+			"name": "3D Modeling",
+			"simple_name": "3dmodeling",
+			"img_name": "icon3d.jpg",
+			"topics": [{
+					"name": "CarePrints",
+					"md_path": "careprints.md"
+				},
+				{
+					"name": "Virtual Reality",
+					"md_path": "vr.md"
+				},
+				{
+					"name": "Devices",
+					"md_path": "devices.md"
+				},
+				{
+					"name": "Education",
+					"md_path": "education.md"
+				}
+			]
+		},
+
+		{
+			"name": "Cardiac",
+			"img_name": "iconcardiac.jpg",
+			"topics": [{
+					"name": "Cardiac Physiology (functional assessment",
+					"md_path": "cardiacphys.md"
+				},
+				{
+					"name": "Large mammalian comparative cardiac anatomy",
+					"md_path": "largemammal.md"
+				},
+				{
+					"name": "Intracellular recording and patch clamp techniques",
+					"md_path": "patchclamp.md"
+				},
+				{
+					"name": "Surface or Transmural Electromyography",
+					"md_path": "electromyography.md"
+				},
+				{
+					"name": "Action Potential Mapping",
+					"md_path": "apmapping.md"
+				}
+
+			]
+		},
+
+		{
+			"name": "Patient Care",
+			"img_name": "iconhealth.jpg",
+			"topics": [{
+					"name": "Thermal Management of the Surgical Patient",
+					"md_path": "thermal.md"
+				},
+				{
+					"name": "Cerebral protection using mild hypothermia",
+					"md_path": "hypothermia.md"
+				},
+				{
+					"name": "LTX30000TM Lumbar Rehabilitation System",
+					"md_path": "lumbar.md"
+				},
+				{
+					"name": "Cardiac Function During Hibernation: EKG and Echocardiographic Analyses",
+					"md_path": "hibernation.md"
+				}
+			]
+		},
+
+		{
+			"name": "Black Bears",
+			"img_name": "iconbear.jpg",
+			"topics": [{
+					"name": "Stimulated Muscle Force Assessment During Hibernation",
+					"md_path": "muscleforcehibernation.md"
+				},
+				{
+					"name": "Wound Healing During Hibernation",
+					"md_path": "wound.md"
+				},
+				{
+					"name": "Pharmacological Approaches to Cardioprotection",
+					"md_path": "pharma.md"
+				},
+				{
+					"name": "Wound Formation, Treatment, and Healing",
+					"md_path": "woundhealing.md"
+				}
+			]
+		},
+
+		{
+			"name": "Medical Devices",
+			"img_name": "icondevice.jpg",
+			"topics": [{
+					"name": "Cardiac Devices, Testing, and Design",
+					"md_path": "meddevices.md"
+				},
+				{
+					"name": "Visible Heart®: Functional Cardiac Anatomy using a 4-chamber Isolated Heart Preparation of Various Large Mammalians including Human Hearts",
+					"md_path": "vh.md"
+				},
+				{
+					"name": "Electrophysiology, Surface, and Noncontact Mapping",
+					"md_path": "electrophysiology.md"
+				}
+			]
+		},
+
+		{
+			"name": "Skeletal Muscle",
+			"img_name": "iconsm.png",
+			"topics": [{
+					"name": "Anesthetic complications in muscular disorders",
+					"md_path": "anesthetic.md"
+				},
+				{
+					"name": "Stimulated muscle force measurements in neuromuscular diseases",
+					"md_path": "musclestim.md"
+				},
+				{
+					"name": "Prevention of hypoxic damage using opiod agonists",
+					"md_path": "agonist.md"
+				},
+				{
+					"name": "Doxorubicin chemomyectomy",
+					"md_path": "doxorubicin.md"
+				}
+			]
+		}
+	]
+
+}

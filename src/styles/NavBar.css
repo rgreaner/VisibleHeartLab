@@ -1,0 +1,103 @@
+/* General CSS */
+.NavBar {
+	background-color: gold;
+}
+
+.dropdown-menu {
+	background-color: gold
+}
+
+a:hover {
+	background-color: #ffdf32
+}
+
+
+/* Specific CSS */
+#navbarDropdownMenuLink{
+	color: maroon;
+}
+
+.dropdown-menu > .dropdown-item {
+	color: maroon;
+	background-color: gold
+}
+
+.dropdown-menu > .dropdown-item:hover {
+	background-color: #ffdf32
+}
+
+#navListItem {
+	padding-top: 0px
+}
+
+#navbarDropdownMenuLink {
+	text-decoration: none
+}
+
+
+/* VH Lab and Dept of Surgery heading style */
+
+.navbar-brand {
+	text-decoration: none;
+	margin-right: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.vhColor {
+	color: maroon
+}
+
+.navbar-nav {
+	padding-left: 10px;
+} 
+
+#pageTitle {
+	font-size: 26px
+}
+
+#surgeryTitle {
+	font-size: 16px
+}
+
+/* ===========================MEDIA QUERIES=============================================== */
+@media only screen and (max-width: 3000px) {
+	.navbar-nav {
+		padding-left: 500px
+	}
+}
+
+
+@media only screen and (max-width: 1700px) {
+	.navbar-nav {
+		padding-left: 300px
+	}
+}
+
+@media only screen and (max-width: 1540px) {
+	.navbar-nav {
+		padding-left: 150px
+	}
+}
+
+@media only screen and (max-width: 1399px) {
+	.navbar-nav {
+		padding-left: 60px
+	}
+}
+
+@media only screen and (max-width: 1304px) {
+	.navbar-nav {
+		padding-left: 20px;
+	}
+}
+
+@media only screen and (max-width: 1264px) {
+	.navbar-nav {
+		padding-left: 0px;
+		margin: 0px;
+	}
+	#pageTitle {
+		font-size: 20px
+	}
+
+}

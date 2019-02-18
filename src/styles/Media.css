@@ -1,0 +1,26 @@
+.mediaContainer {
+    margin-top: 30px
+}
+
+/* Load More Button Stylings */
+.loadMore {
+    background-color: #46000E;
+    color: white;
+    padding: 10px;
+    border: 2px solid #46000E;
+    margin-bottom: 10px
+}
+
+.loadMore:hover {
+    background-color: white;
+    color: #46000E
+}
+
+/* Got to Link Stylings */
+.goTo {
+    font-size: 20px
+}
+
+.goTo:hover {
+    background-color: white 
+}

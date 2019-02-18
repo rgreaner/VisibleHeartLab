@@ -1,0 +1,17 @@
+body {
+    color: maroon;
+}
+
+h2 {
+    margin-bottom: 20px;
+    background-color: #FFF1CF;
+}
+
+.section-container {
+    margin-bottom: 50px
+}
+
+a {
+    color: maroon;
+    text-decoration: underline
+}

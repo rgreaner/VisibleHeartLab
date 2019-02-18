@@ -1,0 +1,63 @@
+#researchTopicComponentMain {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    border-bottom: dotted 1px black;
+    text-align: center;
+}
+
+#researchTopicComponentMainLast {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+#researchTopicATag {
+    text-decoration: none;  
+}
+
+#researchTopicContainer {
+    /* float: left; */
+    margin-top: 10px;
+    width: 84%;
+    margin-left: 8%;
+    padding-top: 30px;
+    background-color: #F8F8F8;
+}
+
+h2 {
+    color: black
+}
+
+/* ------------------Media Queries----------------- */
+
+/* iPad */
+@media only screen and (max-width: 1030px) {
+    #researchTopicContainer {
+        width: 60%;
+        margin-left: 20%;
+        padding-top: 30px;
+        background-color: #F8F8F8;
+        margin-top: 10px
+    }
+
+    #researchTopicComponentMain, #researchTopicComponentMainLast {
+        font-size: 18px;
+    }
+
+}
+
+/* Phones */
+@media only screen and (max-width: 668px) {
+    #researchTopicContainer {
+        width: 60%;
+        margin-left: 20%;
+        padding-top: 30px;
+        background-color: #F8F8F8;
+        margin-top: 10px
+    }
+
+    #researchTopicComponentMain, #researchTopicComponentMainLast {
+        font-size: 18px;
+    }
+
+}

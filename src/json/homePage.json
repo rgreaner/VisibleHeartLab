@@ -1,0 +1,57 @@
+{
+    "carousel": [
+        {
+            "legend": "40 Years of Heart Transplants",
+            "link": "http://www.fox9.com/news/university-of-minnesota-health-celebrates-40-years-of-heart-transplants",
+            "img_path": "40transplant.jpg"
+        },
+        {
+            "legend": "3D Printing",
+            "link": "http://www.kare11.com/news/3d-printing-gives-doctors-a-new-view/135852297",
+            "img_path": "3dprints.jpg"
+        },
+        {
+            "legend": "Black Bear Research",
+            "link": "http://www.vhlab.umn.edu/bears/index.html",
+            "img_path": "bears.jpg"
+        },
+        {
+            "legend": "Latest News",
+            "link": "media",
+            "img_path": "umngroupphoto.jpg"
+        }
+    ],
+    
+    "homeElements": [
+        {
+            "name": "Our Lab",
+            "img_path": "ourlab3.jpg",
+            "link": "about",
+            "description": "Get familiar with our team of teachers, students, and scientists"
+        },
+        {
+            "name": "Research",
+            "img_path": "Research.jpg",
+            "link": "research",
+            "description": "Areas of research conducted in the Visible Heart Laboratory"
+        },
+        {
+            "name": "Education",
+            "img_path": "education5.jpg",
+            "link": "education",
+            "description": "See the educational outreach and programs we offer"
+        },
+        {
+            "name": "Clinical",
+            "img_path": "mhlogo.jpg",
+            "link": "clinical",
+            "description": "See the educational outreach and programs we offer"
+        },
+        {
+            "name": "The Atlas",
+            "img_path": "Happaratus.JPG",
+            "link": "http://www.vhlab.umn.edu/atlas/",
+            "description": "Let us take you on an in-depth guided tour of our lab"
+        }
+    ]
+}
